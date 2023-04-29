@@ -11,7 +11,9 @@ coming soon
 ## Todo
 - [ ] Get Page Content  
 - [ ] Get Page Children
+- [ ] Get Number of Children of a page
 - [ ] Get Page Attachments 
+- [x] Get Number of Attachments of a page
 - [ ] Get Space Tree  
 
 
