@@ -2,7 +2,7 @@
 This repository contains Confluence REST API Helper functions
 
 ## PHP
-[Get Number of Attachments of a page](php/total_number_of_attachments_in_a_page.php)
+[Get Number of Attachments of a page](php/get_number_of_attachments_of_a_page.php)
 
 ## JAVA
 coming soon
