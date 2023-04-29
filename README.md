@@ -8,6 +8,13 @@ This repository contains Confluence REST API Helper functions
 coming soon
 
 
+## Todo
+- [ ] Get Attachments 
+- [ ] Get Child Pages 
+- [ ] Get Page Content  
+- [ ] Get Space Tree  
+
+
 ## Feedback
 Please create a GitHub Issue for any bugs, feature requests, etc. Happy to accept pull requests too!
 
