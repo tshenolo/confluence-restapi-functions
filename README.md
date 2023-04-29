@@ -9,9 +9,9 @@ coming soon
 
 
 ## Todo
-- [ ] Get Attachments 
-- [ ] Get Child Pages 
 - [ ] Get Page Content  
+- [ ] Get Page Children
+- [ ] Get Page Attachments 
 - [ ] Get Space Tree  
 
 
