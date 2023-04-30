@@ -3,10 +3,18 @@
 
 This PHP script will get the total number of attachments for a specific page via the Confluence REST API
 
+Usage:
+
 Update the following variables before you run this script:
 - YOUR_SERVER
 - YOUR_PERSONAL_ACCESS_TOKEN (found @ YOUR_SERVER/plugins/personalaccesstokens/usertokens.action
 - YOUR_PAGEID 
+
+Open your CLI and execute the following command:
+
+php get_number_of_attachments_of_a_page.php
+
+
 */
 
 define("REST_API", "YOUR_SERVER/rest/api/");
