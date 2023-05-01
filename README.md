@@ -5,10 +5,10 @@ This repository contains Confluence REST API Helper functions
 [Get Number of Attachments of a page](php/get_number_of_attachments_of_a_page.php)
 
 ## JAVA
-coming soon
+[Get Number of Attachments of a page](java/get_number_of_attachments_of_a_page.java)
 
 ## Python
-coming soon
+[Get Number of Attachments of a page](python/get_number_of_attachments_of_a_page.py)
 
 ## API
 coming soon
