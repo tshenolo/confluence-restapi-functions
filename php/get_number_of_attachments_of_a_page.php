@@ -1,7 +1,7 @@
 <?php
 /*
 
-This PHP script will get the total number of attachments for a specific page via the Confluence REST API
+This script will get the total number of attachments for a specific page via the Confluence REST API
 
 Usage:
 
