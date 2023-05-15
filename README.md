@@ -1,5 +1,8 @@
 # Confluence API Helper Functions
-This repository contains Confluence Server REST API Helper functions
+Welcome to the Confluence Server REST API Helper Functions repository! This comprehensive collection of helper functions is designed to simplify and streamline your interactions with the Confluence Server REST API. Whether you're a developer building integrations, automating tasks, or creating custom applications on top of Confluence Server, these helper functions provide a convenient and efficient way to interact with the API.
+
+Get started today by exploring the repository, checking out the documentation, and leveraging the power of Confluence Server REST API Helper Functions to supercharge your Confluence Server development experience.
+
 
 # Confluence Server REST API Documentation
 [https://developer.atlassian.com/server/confluence/confluence-rest-api-examples/](https://developer.atlassian.com/server/confluence/confluence-rest-api-examples/)
@@ -25,8 +28,6 @@ docker run -v /data/your-confluence-home:/var/atlassian/application-data/conflue
 
 ## API
 coming soon
-
-
 
 ## Todo
 - [ ] Get Page Content  
