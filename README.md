@@ -25,7 +25,6 @@ docker run -v /data/your-confluence-home:/var/atlassian/application-data/conflue
 ## Node.js
 [Get Number of Attachments of a page](node/get_number_of_attachments_of_a_page.js)
 
-
 ## API
 coming soon
 
