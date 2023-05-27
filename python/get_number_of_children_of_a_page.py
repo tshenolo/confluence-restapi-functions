@@ -8,3 +8,12 @@
 # 
 # Open your CLI execute the following command:
 # py get_number_of_children_of_a_page.py
+
+def get_number_of_children(page_id):
+    # TODO: implement
+    return ""
+    
+    
+    
+  
+  
