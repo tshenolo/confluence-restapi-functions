@@ -8,3 +8,8 @@
 # 
 # Open your CLI execute the following command:
 # py get_page_content.py
+
+
+def get_page_content(page_id):
+    # TODO: implement
+    return ""

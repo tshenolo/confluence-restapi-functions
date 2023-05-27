@@ -8,3 +8,7 @@
 # 
 # Open your CLI execute the following command:
 # py get_page_attachments.py
+
+def get_number_attachments(page_id):
+    # TODO: implement
+    return ""
