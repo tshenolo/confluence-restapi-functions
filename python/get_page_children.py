@@ -8,3 +8,8 @@
 # 
 # Open your CLI execute the following command:
 # py get_page_children.py
+
+
+def get_page_children(page_id):
+    # TODO: implement
+    return ""
