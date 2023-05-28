@@ -8,3 +8,7 @@
 # 
 # Open your CLI execute the following command:
 # py get_space_tree.py
+
+def get_space_tree(space_id):
+    # TODO: implement
+    return ""
