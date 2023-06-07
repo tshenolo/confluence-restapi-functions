@@ -43,8 +43,11 @@ Please create a GitHub Issue for any bugs, feature requests, etc. Happy to accep
 ## Contribute
 If you would like to Contribute to this project please follow the guide lines described on the [Contribution page](CONTRIBUTING.md)
 
-## Support
-If you found this project useful please give it a ⭐ star ⭐ at the top of the page
+
+## Thank you for the Support
+- ⭐ Give this repo a ⭐ star ⭐ at the top of the page
+- 🐦 Follow me on twitter [twitter](https://twitter.com/tshenolo)
+- 📺 Subscribe to my [Youtube channel](https://www.youtube.com/@tshenolo?sub_confirmation=1)
 
 
 
